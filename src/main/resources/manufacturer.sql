@@ -1,0 +1,8 @@
+INSERT INTO manufacturer(name,city_code) VALUES ("Manufacturer - 1", 11000)
+INSERT INTO manufacturer(name,city_code) VALUES ("Manufacturer - 2", 11000)
+INSERT INTO manufacturer(name,city_code) VALUES ("Manufacturer - 3", 13000)
+INSERT INTO manufacturer(name,city_code) VALUES ("Manufacturer - 4", 13000)
+INSERT INTO manufacturer(name,city_code) VALUES ("Manufacturer - 5", 37230)
+INSERT INTO manufacturer(name,city_code) VALUES ("Manufacturer - 6", 37230)
+INSERT INTO manufacturer(name,city_code) VALUES ("Manufacturer - 7", 37230)
+INSERT INTO manufacturer(name,city_code) VALUES ("Manufacturer - 8", 37230)
